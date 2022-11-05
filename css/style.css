@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+
+.gioco{
+    display: none;
+}
